@@ -1,19 +1,20 @@
 #include <stdio.h>
 
 int main() {
-    int n = 0;
-    printf("请输入一个数\n");
-    scanf("%d", &n);
-    for (int i = 0; i < n; i++) {
-        for (int j = 0; j < n - i - 1; j++) {
-            printf(" ");
-        }
-        for (int k = 0; k <= i; k++) {
-            printf("%d", i - k + 1);
-        }
-        for (int l = 2; l <= i + 1; l++) {
-            printf("%d", l);
-        }
+
+//    int n = 0;
+//    printf("请输入一个数\n");
+//    scanf("%d", &n);
+//    for (int i = 0; i < n; i++) {
+//        for (int j = 0; j < n - i - 1; j++) {
+//            printf(" ");
+//        }
+//        for (int k = 0; k <= i; k++) {
+//            printf("%d", i - k + 1);
+//        }
+//        for (int l = 2; l <= i + 1; l++) {
+//            printf("%d", l);
+//        }
 //    for(int i=0;i<n;i++){
 //        for(int j=0;j<i;j++){
 //            printf(" ");
@@ -31,8 +32,8 @@ int main() {
 //        for (int j = 0; j < i-1; j++) {
 //            printf(" ");
 //        }
-        printf("\n");
-    }
+//        printf("\n");
+}
 //    for(int i=n;i>0;i--){
 //        for(int j=0;j<i;j++){
 //            printf("*");
@@ -45,5 +46,6 @@ int main() {
 //        }
 //        printf("\n");
 //    }
-    return 0;
+
+return 0;
 }
