@@ -128,29 +128,29 @@ CMakeLists.txt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/build
 .PHONY : CMakeLists.txt/fast
 
-printStar.obj: printStar.c.obj
-.PHONY : printStar.obj
+chicken.obj: chicken.c.obj
+.PHONY : chicken.obj
 
 # target to build an object file
-printStar.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/printStar.c.obj
-.PHONY : printStar.c.obj
+chicken.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/chicken.c.obj
+.PHONY : chicken.c.obj
 
-printStar.i: printStar.c.i
-.PHONY : printStar.i
+chicken.i: chicken.c.i
+.PHONY : chicken.i
 
 # target to preprocess a source file
-printStar.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/printStar.c.i
-.PHONY : printStar.c.i
+chicken.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/chicken.c.i
+.PHONY : chicken.c.i
 
-printStar.s: printStar.c.s
-.PHONY : printStar.s
+chicken.s: chicken.c.s
+.PHONY : chicken.s
 
 # target to generate assembly for a file
-printStar.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/printStar.c.s
-.PHONY : printStar.c.s
+chicken.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/chicken.c.s
+.PHONY : chicken.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CMakeLists.txt
-	@echo ... printStar.obj
-	@echo ... printStar.i
-	@echo ... printStar.s
+	@echo ... chicken.obj
+	@echo ... chicken.i
+	@echo ... chicken.s
 .PHONY : help
 
 

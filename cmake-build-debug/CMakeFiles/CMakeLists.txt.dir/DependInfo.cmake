@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/dsz/CLionProjects/cDemo/printStar.c" "CMakeFiles/CMakeLists.txt.dir/printStar.c.obj" "gcc" "CMakeFiles/CMakeLists.txt.dir/printStar.c.obj.d"
+  "C:/Users/dsz/CLionProjects/cDemo/chicken.c" "CMakeFiles/CMakeLists.txt.dir/chicken.c.obj" "gcc" "CMakeFiles/CMakeLists.txt.dir/chicken.c.obj.d"
   )
 
 # Targets to which this target links.

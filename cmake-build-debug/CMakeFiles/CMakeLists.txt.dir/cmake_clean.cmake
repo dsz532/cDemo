@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CMakeLists.txt.dir/printStar.c.obj"
-  "CMakeFiles/CMakeLists.txt.dir/printStar.c.obj.d"
+  "CMakeFiles/CMakeLists.txt.dir/chicken.c.obj"
+  "CMakeFiles/CMakeLists.txt.dir/chicken.c.obj.d"
   "CMakeLists.txt.exe"
   "CMakeLists.txt.exe.manifest"
   "CMakeLists.txt.pdb"

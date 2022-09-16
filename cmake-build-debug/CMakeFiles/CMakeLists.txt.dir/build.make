@@ -68,28 +68,28 @@ include CMakeFiles/CMakeLists.txt.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CMakeLists.txt.dir/flags.make
 
-CMakeFiles/CMakeLists.txt.dir/printStar.c.obj: CMakeFiles/CMakeLists.txt.dir/flags.make
-CMakeFiles/CMakeLists.txt.dir/printStar.c.obj: ../printStar.c
-CMakeFiles/CMakeLists.txt.dir/printStar.c.obj: CMakeFiles/CMakeLists.txt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dsz\CLionProjects\cDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CMakeLists.txt.dir/printStar.c.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CMakeLists.txt.dir/printStar.c.obj -MF CMakeFiles\CMakeLists.txt.dir\printStar.c.obj.d -o CMakeFiles\CMakeLists.txt.dir\printStar.c.obj -c C:\Users\dsz\CLionProjects\cDemo\printStar.c
+CMakeFiles/CMakeLists.txt.dir/chicken.c.obj: CMakeFiles/CMakeLists.txt.dir/flags.make
+CMakeFiles/CMakeLists.txt.dir/chicken.c.obj: ../chicken.c
+CMakeFiles/CMakeLists.txt.dir/chicken.c.obj: CMakeFiles/CMakeLists.txt.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\dsz\CLionProjects\cDemo\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/CMakeLists.txt.dir/chicken.c.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/CMakeLists.txt.dir/chicken.c.obj -MF CMakeFiles\CMakeLists.txt.dir\chicken.c.obj.d -o CMakeFiles\CMakeLists.txt.dir\chicken.c.obj -c C:\Users\dsz\CLionProjects\cDemo\chicken.c
 
-CMakeFiles/CMakeLists.txt.dir/printStar.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CMakeLists.txt.dir/printStar.c.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dsz\CLionProjects\cDemo\printStar.c > CMakeFiles\CMakeLists.txt.dir\printStar.c.i
+CMakeFiles/CMakeLists.txt.dir/chicken.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/CMakeLists.txt.dir/chicken.c.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:\Users\dsz\CLionProjects\cDemo\chicken.c > CMakeFiles\CMakeLists.txt.dir\chicken.c.i
 
-CMakeFiles/CMakeLists.txt.dir/printStar.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CMakeLists.txt.dir/printStar.c.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dsz\CLionProjects\cDemo\printStar.c -o CMakeFiles\CMakeLists.txt.dir\printStar.c.s
+CMakeFiles/CMakeLists.txt.dir/chicken.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/CMakeLists.txt.dir/chicken.c.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:\Users\dsz\CLionProjects\cDemo\chicken.c -o CMakeFiles\CMakeLists.txt.dir\chicken.c.s
 
 # Object files for target CMakeLists.txt
 CMakeLists_txt_OBJECTS = \
-"CMakeFiles/CMakeLists.txt.dir/printStar.c.obj"
+"CMakeFiles/CMakeLists.txt.dir/chicken.c.obj"
 
 # External object files for target CMakeLists.txt
 CMakeLists_txt_EXTERNAL_OBJECTS =
 
-CMakeLists.txt.exe: CMakeFiles/CMakeLists.txt.dir/printStar.c.obj
+CMakeLists.txt.exe: CMakeFiles/CMakeLists.txt.dir/chicken.c.obj
 CMakeLists.txt.exe: CMakeFiles/CMakeLists.txt.dir/build.make
 CMakeLists.txt.exe: CMakeFiles/CMakeLists.txt.dir/linklibs.rsp
 CMakeLists.txt.exe: CMakeFiles/CMakeLists.txt.dir/objects1.rsp
