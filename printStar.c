@@ -1,7 +1,22 @@
 #include <stdio.h>
 
 int main() {
-
+    int line = 0;
+    printf("输入行数:\n");
+    scanf("%d", & line);
+    for(int l=1;l<=line;l++){
+        printf("*");
+        if(l==1||l==line){
+            for(int f=0;f<line-2;f++){
+                printf("*");
+            }
+        }
+        else{
+            for(int o=0;o<line-2;o++){
+                printf(" ");
+            }
+        }
+        printf("*\n");
 //    int n = 0;
 //    printf("请输入一个数\n");
 //    scanf("%d", &n);
