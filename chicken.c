@@ -4,7 +4,7 @@ int main (){
     int hen=0;
     int chik=0;
     int sum=0;
-    for(rooster=20;rooster>0;rooster--){
+    for(rooster=20;rooster>=0;rooster--){
         for(hen=(100-rooster*5)/3;hen>0;hen--){
             chik=100-rooster*5-hen*3;
             sum=chik*3+hen+rooster;

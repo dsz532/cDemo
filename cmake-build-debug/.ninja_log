@@ -1,10 +1,4 @@
 # ninja log v5
-0	61	1659869706278112616	CMakeFiles/feibonaqi.dir/*/*.c.o	eaf0acb50d21ddcf
-0	86	1660984746430667571	build.ninja	1a2d04c4f0bf598b
-0	60	1659868890964935515	CMakeFiles/feibonaqi.dir/main.c.o	fa614acb690df8a5
-0	71	1659876226658264828	CMakeFiles/feibonaqi.dir/printStar.c.o	20e8bd782ee6d11a
+0	86	6875251427970698	build.ninja	1a2d04c4f0bf598b
 71	150	1659876226738575659	feibonaqi	260af13ca96beb25
-0	112	1660984753399042419	CMakeFiles/CMakeLists.txt.dir/function.c.o	995e5b99d0aa72b
-112	506	1660984753794802590	CMakeLists.txt	b4aa812686cba8a6
-1	70	1660984779667503160	CMakeFiles/CMakeLists.txt.dir/function.c.o	995e5b99d0aa72b
 70	147	1660984779745936716	CMakeLists.txt	b4aa812686cba8a6

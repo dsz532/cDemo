@@ -76,7 +76,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/dsz/CLionProjects/cDemo/chicken.c">
+		<Unit filename="C:/Users/dsz/CLionProjects/cDemo/linkedlist.c">
 			<Option target="CMakeLists.txt"/>
 		</Unit>
 		<Unit filename="C:/Users/dsz/CLionProjects/cDemo/CMakeLists.txt">

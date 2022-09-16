@@ -3,4 +3,4 @@ project(feibonaqi C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable( CMakeLists.txt chicken.c)
+add_executable( CMakeLists.txt linkedlist.c)

@@ -128,29 +128,29 @@ CMakeLists.txt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/build
 .PHONY : CMakeLists.txt/fast
 
-chicken.obj: chicken.c.obj
-.PHONY : chicken.obj
+linkedlist.obj: linkedlist.c.obj
+.PHONY : linkedlist.obj
 
 # target to build an object file
-chicken.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/chicken.c.obj
-.PHONY : chicken.c.obj
+linkedlist.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/linkedlist.c.obj
+.PHONY : linkedlist.c.obj
 
-chicken.i: chicken.c.i
-.PHONY : chicken.i
+linkedlist.i: linkedlist.c.i
+.PHONY : linkedlist.i
 
 # target to preprocess a source file
-chicken.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/chicken.c.i
-.PHONY : chicken.c.i
+linkedlist.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/linkedlist.c.i
+.PHONY : linkedlist.c.i
 
-chicken.s: chicken.c.s
-.PHONY : chicken.s
+linkedlist.s: linkedlist.c.s
+.PHONY : linkedlist.s
 
 # target to generate assembly for a file
-chicken.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/chicken.c.s
-.PHONY : chicken.c.s
+linkedlist.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/linkedlist.c.s
+.PHONY : linkedlist.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CMakeLists.txt
-	@echo ... chicken.obj
-	@echo ... chicken.i
-	@echo ... chicken.s
+	@echo ... linkedlist.obj
+	@echo ... linkedlist.i
+	@echo ... linkedlist.s
 .PHONY : help
 
 
