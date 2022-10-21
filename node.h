@@ -1,7 +1,8 @@
-#ifndef FEIBONAQI_NODE_H
-#define FEIBONAQI_NODE_H
-typedef struct _node{
+#ifndef _NODE_H_
+#define _NODE_H_
+
+typedef struct node{
     int value;
-    struct _node *next;
+    int *next;
 }Node;
 #endif
