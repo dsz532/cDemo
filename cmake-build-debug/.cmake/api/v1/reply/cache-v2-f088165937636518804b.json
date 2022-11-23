@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/dsz/CLionProjects/cDemo/cmake-build-debug"
+			"value" : "d:/CLionProjects/cDemo/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/dsz/CLionProjects/cDemo"
+			"value" : "D:/CLionProjects/cDemo"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug"
+			"value" : "D:/CLionProjects/cDemo/cmake-build-debug"
 		},
 		{
 			"name" : "feibonaqi_IS_TOP_LEVEL",
@@ -1183,7 +1183,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/dsz/CLionProjects/cDemo"
+			"value" : "D:/CLionProjects/cDemo"
 		}
 	],
 	"kind" : "cache",

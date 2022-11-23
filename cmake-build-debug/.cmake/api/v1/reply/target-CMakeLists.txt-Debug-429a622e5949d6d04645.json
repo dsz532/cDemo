@@ -101,7 +101,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "linkedlist.c",
+			"path" : "-x.c",
 			"sourceGroupIndex" : 0
 		}
 	],

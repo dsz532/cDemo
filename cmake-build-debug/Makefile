@@ -56,10 +56,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\dsz\CLionProjects\cDemo
+CMAKE_SOURCE_DIR = D:\CLionProjects\cDemo
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\dsz\CLionProjects\cDemo\cmake-build-debug
+CMAKE_BINARY_DIR = D:\CLionProjects\cDemo\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,9 +86,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\dsz\CLionProjects\cDemo\cmake-build-debug\CMakeFiles C:\Users\dsz\CLionProjects\cDemo\cmake-build-debug\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\cDemo\cmake-build-debug\CMakeFiles D:\CLionProjects\cDemo\cmake-build-debug\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\dsz\CLionProjects\cDemo\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\CLionProjects\cDemo\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -128,29 +128,29 @@ CMakeLists.txt/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/build
 .PHONY : CMakeLists.txt/fast
 
-linkedlist.obj: linkedlist.c.obj
-.PHONY : linkedlist.obj
+-x.obj: -x.c.obj
+.PHONY : -x.obj
 
 # target to build an object file
-linkedlist.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/linkedlist.c.obj
-.PHONY : linkedlist.c.obj
+-x.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/-x.c.obj
+.PHONY : -x.c.obj
 
-linkedlist.i: linkedlist.c.i
-.PHONY : linkedlist.i
+-x.i: -x.c.i
+.PHONY : -x.i
 
 # target to preprocess a source file
-linkedlist.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/linkedlist.c.i
-.PHONY : linkedlist.c.i
+-x.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/-x.c.i
+.PHONY : -x.c.i
 
-linkedlist.s: linkedlist.c.s
-.PHONY : linkedlist.s
+-x.s: -x.c.s
+.PHONY : -x.s
 
 # target to generate assembly for a file
-linkedlist.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/linkedlist.c.s
-.PHONY : linkedlist.c.s
+-x.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CMakeLists.txt.dir\build.make CMakeFiles/CMakeLists.txt.dir/-x.c.s
+.PHONY : -x.c.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CMakeLists.txt
-	@echo ... linkedlist.obj
-	@echo ... linkedlist.i
-	@echo ... linkedlist.s
+	@echo ... -x.obj
+	@echo ... -x.i
+	@echo ... -x.s
 .PHONY : help
 
 

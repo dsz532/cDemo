@@ -1,3 +1,3 @@
-C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/CMakeLists.txt.dir
-C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/CMakeLists.txt.dir
+D:/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
