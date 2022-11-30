@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "showbytes.c"
+#include "headfile.h"
 int main()
 {
     short sx = -12345;  //补码数的符号扩展
