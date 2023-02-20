@@ -1,4 +1,12 @@
 # ninja log v5
-0	86	6875251427970698	build.ninja	1a2d04c4f0bf598b
+0	86	6986000407223670	build.ninja	1a2d04c4f0bf598b
 71	150	1659876226738575659	feibonaqi	260af13ca96beb25
 70	147	1660984779745936716	CMakeLists.txt	b4aa812686cba8a6
+1	58	6986002952336855	CMakeFiles/CMakeLists.txt.dir/leetcode1.c.obj	3b4b1cc1d0058656
+60	156	6986002953281487	CMakeLists.txt.exe	1bc9e2bec98a5623
+1	59	6986005696686440	CMakeFiles/CMakeLists.txt.dir/leetcode1.c.obj	3b4b1cc1d0058656
+60	131	6986005697379590	CMakeLists.txt.exe	1bc9e2bec98a5623
+2	63	6986006033466237	CMakeFiles/CMakeLists.txt.dir/leetcode1.c.obj	3b4b1cc1d0058656
+63	144	6986006034246703	CMakeLists.txt.exe	1bc9e2bec98a5623
+2	61	6986006441500266	CMakeFiles/CMakeLists.txt.dir/leetcode1.c.obj	3b4b1cc1d0058656
+61	131	6986006442173281	CMakeLists.txt.exe	1bc9e2bec98a5623
