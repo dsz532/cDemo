@@ -3,4 +3,4 @@ project(feibonaqi C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable( CMakeLists.txt leetcode1828.c)
+add_executable( CMakeLists.txt leetcode1828.c leetcode1603.c)
