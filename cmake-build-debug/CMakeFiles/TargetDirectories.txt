@@ -1,3 +1,4 @@
-C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/CMakeLists.txt.dir
-C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/CMakeLists.txt.dir
+/Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/leetcode2396.dir
+/Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

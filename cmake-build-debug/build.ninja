@@ -46,8 +46,8 @@ cmake_ninja_workdir = /Users/dsz/Desktop/code/cDemo/cmake-build-debug/
 
 build cmake_object_order_depends_target_CMakeLists.txt: phony || CMakeFiles/CMakeLists.txt.dir
 
-build CMakeFiles/CMakeLists.txt.dir/leetcode1828.c.o: C_COMPILER__CMakeLists.2etxt_Debug /Users/dsz/Desktop/code/cDemo/leetcode1828.c || cmake_object_order_depends_target_CMakeLists.txt
-  DEP_FILE = CMakeFiles/CMakeLists.txt.dir/leetcode1828.c.o.d
+build CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.o: C_COMPILER__CMakeLists.2etxt_Debug /Users/dsz/Desktop/code/cDemo/leetcode2396.c || cmake_object_order_depends_target_CMakeLists.txt
+  DEP_FILE = CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.o.d
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
   OBJECT_DIR = CMakeFiles/CMakeLists.txt.dir
   OBJECT_FILE_DIR = CMakeFiles/CMakeLists.txt.dir
@@ -60,13 +60,44 @@ build CMakeFiles/CMakeLists.txt.dir/leetcode1828.c.o: C_COMPILER__CMakeLists.2et
 #############################################
 # Link the executable CMakeLists.txt
 
-build CMakeLists.txt: C_EXECUTABLE_LINKER__CMakeLists.2etxt_Debug CMakeFiles/CMakeLists.txt.dir/leetcode1828.c.o
+build CMakeLists.txt: C_EXECUTABLE_LINKER__CMakeLists.2etxt_Debug CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
   OBJECT_DIR = CMakeFiles/CMakeLists.txt.dir
   POST_BUILD = :
   PRE_LINK = :
   TARGET_FILE = CMakeLists.txt
   TARGET_PDB = CMakeLists.txt.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode2396
+
+
+#############################################
+# Order-only phony target for leetcode2396
+
+build cmake_object_order_depends_target_leetcode2396: phony || CMakeFiles/leetcode2396.dir
+
+build CMakeFiles/leetcode2396.dir/leetcode2396.c.o: C_COMPILER__leetcode2396_Debug /Users/dsz/Desktop/code/cDemo/leetcode2396.c || cmake_object_order_depends_target_leetcode2396
+  DEP_FILE = CMakeFiles/leetcode2396.dir/leetcode2396.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode2396.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode2396.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode2396
+
+
+#############################################
+# Link the executable leetcode2396
+
+build leetcode2396: C_EXECUTABLE_LINKER__leetcode2396_Debug CMakeFiles/leetcode2396.dir/leetcode2396.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode2396.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode2396
+  TARGET_PDB = leetcode2396.dbg
 
 
 #############################################
@@ -102,7 +133,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/dsz/Desktop/code/cDemo/cmake-build-debug
 
-build all: phony CMakeLists.txt
+build all: phony CMakeLists.txt leetcode2396
 
 # =============================================================================
 # Built-in targets
