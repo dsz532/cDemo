@@ -1,4 +1,5 @@
 /Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/CMakeLists.txt.dir
 /Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/leetcode2396.dir
+/Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/leetcode2574.dir
 /Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/dsz/Desktop/code/cDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
