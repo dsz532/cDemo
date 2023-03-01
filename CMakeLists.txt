@@ -7,3 +7,4 @@ add_executable( CMakeLists.txt leetcode2396.c leetcode2574.c)
 
 add_executable(leetcode2396 leetcode2396.c)
 add_executable(leetcode2574 leetcode2574.c)
+add_executable(leetcode1769 leetcode1769.c)
