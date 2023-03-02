@@ -26,7 +26,7 @@ int *minOperations(char *boxes, int *returnSize) {
 
 int main() {
     char boxes[6] = "001011";
-    int *returnSize = NULL;
+    int* returnSize=NULL;
     int *answer= minOperations(boxes,returnSize);
     for (int i = 0; i < 6; ++i) {
         printf("%d ",answer[i]);
