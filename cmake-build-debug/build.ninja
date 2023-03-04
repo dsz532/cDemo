@@ -136,6 +136,254 @@ build leetcode2574: C_EXECUTABLE_LINKER__leetcode2574_Debug CMakeFiles/leetcode2
   TARGET_FILE = leetcode2574
   TARGET_PDB = leetcode2574.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode1769
+
+
+#############################################
+# Order-only phony target for leetcode1769
+
+build cmake_object_order_depends_target_leetcode1769: phony || CMakeFiles/leetcode1769.dir
+
+build CMakeFiles/leetcode1769.dir/leetcode1769.c.o: C_COMPILER__leetcode1769_Debug /Users/dsz/Desktop/code/cDemo/leetcode1769.c || cmake_object_order_depends_target_leetcode1769
+  DEP_FILE = CMakeFiles/leetcode1769.dir/leetcode1769.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode1769.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode1769.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode1769
+
+
+#############################################
+# Link the executable leetcode1769
+
+build leetcode1769: C_EXECUTABLE_LINKER__leetcode1769_Debug CMakeFiles/leetcode1769.dir/leetcode1769.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode1769.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode1769
+  TARGET_PDB = leetcode1769.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode1603
+
+
+#############################################
+# Order-only phony target for leetcode1603
+
+build cmake_object_order_depends_target_leetcode1603: phony || CMakeFiles/leetcode1603.dir
+
+build CMakeFiles/leetcode1603.dir/leetcode1603.c.o: C_COMPILER__leetcode1603_Debug /Users/dsz/Desktop/code/cDemo/leetcode1603.c || cmake_object_order_depends_target_leetcode1603
+  DEP_FILE = CMakeFiles/leetcode1603.dir/leetcode1603.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode1603.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode1603.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode1603
+
+
+#############################################
+# Link the executable leetcode1603
+
+build leetcode1603: C_EXECUTABLE_LINKER__leetcode1603_Debug CMakeFiles/leetcode1603.dir/leetcode1603.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode1603.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode1603
+  TARGET_PDB = leetcode1603.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode1
+
+
+#############################################
+# Order-only phony target for leetcode1
+
+build cmake_object_order_depends_target_leetcode1: phony || CMakeFiles/leetcode1.dir
+
+build CMakeFiles/leetcode1.dir/leetcode1.c.o: C_COMPILER__leetcode1_Debug /Users/dsz/Desktop/code/cDemo/leetcode1.c || cmake_object_order_depends_target_leetcode1
+  DEP_FILE = CMakeFiles/leetcode1.dir/leetcode1.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode1.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode1
+
+
+#############################################
+# Link the executable leetcode1
+
+build leetcode1: C_EXECUTABLE_LINKER__leetcode1_Debug CMakeFiles/leetcode1.dir/leetcode1.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode1.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode1
+  TARGET_PDB = leetcode1.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode807
+
+
+#############################################
+# Order-only phony target for leetcode807
+
+build cmake_object_order_depends_target_leetcode807: phony || CMakeFiles/leetcode807.dir
+
+build CMakeFiles/leetcode807.dir/leetcode807.c.o: C_COMPILER__leetcode807_Debug /Users/dsz/Desktop/code/cDemo/leetcode807.c || cmake_object_order_depends_target_leetcode807
+  DEP_FILE = CMakeFiles/leetcode807.dir/leetcode807.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode807.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode807.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode807
+
+
+#############################################
+# Link the executable leetcode807
+
+build leetcode807: C_EXECUTABLE_LINKER__leetcode807_Debug CMakeFiles/leetcode807.dir/leetcode807.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode807.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode807
+  TARGET_PDB = leetcode807.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode2011
+
+
+#############################################
+# Order-only phony target for leetcode2011
+
+build cmake_object_order_depends_target_leetcode2011: phony || CMakeFiles/leetcode2011.dir
+
+build CMakeFiles/leetcode2011.dir/leetcode2011.c.o: C_COMPILER__leetcode2011_Debug /Users/dsz/Desktop/code/cDemo/leetcode2011.c || cmake_object_order_depends_target_leetcode2011
+  DEP_FILE = CMakeFiles/leetcode2011.dir/leetcode2011.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode2011.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode2011.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode2011
+
+
+#############################################
+# Link the executable leetcode2011
+
+build leetcode2011: C_EXECUTABLE_LINKER__leetcode2011_Debug CMakeFiles/leetcode2011.dir/leetcode2011.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode2011.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode2011
+  TARGET_PDB = leetcode2011.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode535
+
+
+#############################################
+# Order-only phony target for leetcode535
+
+build cmake_object_order_depends_target_leetcode535: phony || CMakeFiles/leetcode535.dir
+
+build CMakeFiles/leetcode535.dir/leetcode535.c.o: C_COMPILER__leetcode535_Debug /Users/dsz/Desktop/code/cDemo/leetcode535.c || cmake_object_order_depends_target_leetcode535
+  DEP_FILE = CMakeFiles/leetcode535.dir/leetcode535.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode535.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode535.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode535
+
+
+#############################################
+# Link the executable leetcode535
+
+build leetcode535: C_EXECUTABLE_LINKER__leetcode535_Debug CMakeFiles/leetcode535.dir/leetcode535.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode535.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode535
+  TARGET_PDB = leetcode535.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode1920
+
+
+#############################################
+# Order-only phony target for leetcode1920
+
+build cmake_object_order_depends_target_leetcode1920: phony || CMakeFiles/leetcode1920.dir
+
+build CMakeFiles/leetcode1920.dir/leetcode1920.c.o: C_COMPILER__leetcode1920_Debug /Users/dsz/Desktop/code/cDemo/leetcode1920.c || cmake_object_order_depends_target_leetcode1920
+  DEP_FILE = CMakeFiles/leetcode1920.dir/leetcode1920.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode1920.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode1920.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode1920
+
+
+#############################################
+# Link the executable leetcode1920
+
+build leetcode1920: C_EXECUTABLE_LINKER__leetcode1920_Debug CMakeFiles/leetcode1920.dir/leetcode1920.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode1920.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode1920
+  TARGET_PDB = leetcode1920.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target leetcode2545
+
+
+#############################################
+# Order-only phony target for leetcode2545
+
+build cmake_object_order_depends_target_leetcode2545: phony || CMakeFiles/leetcode2545.dir
+
+build CMakeFiles/leetcode2545.dir/leetcode2545.c.o: C_COMPILER__leetcode2545_Debug /Users/dsz/Desktop/code/cDemo/leetcode2545.c || cmake_object_order_depends_target_leetcode2545
+  DEP_FILE = CMakeFiles/leetcode2545.dir/leetcode2545.c.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0 -fcolor-diagnostics -std=gnu99
+  OBJECT_DIR = CMakeFiles/leetcode2545.dir
+  OBJECT_FILE_DIR = CMakeFiles/leetcode2545.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target leetcode2545
+
+
+#############################################
+# Link the executable leetcode2545
+
+build leetcode2545: C_EXECUTABLE_LINKER__leetcode2545_Debug CMakeFiles/leetcode2545.dir/leetcode2545.c.o
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=13.0
+  OBJECT_DIR = CMakeFiles/leetcode2545.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = leetcode2545
+  TARGET_PDB = leetcode2545.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -170,7 +418,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/dsz/Desktop/code/cDemo/cmake-build-debug
 
-build all: phony CMakeLists.txt leetcode2396 leetcode2574
+build all: phony CMakeLists.txt leetcode2396 leetcode2574 leetcode1769 leetcode1603 leetcode1 leetcode807 leetcode2011 leetcode535 leetcode1920 leetcode2545
 
 # =============================================================================
 # Built-in targets
