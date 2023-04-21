@@ -1,6 +1,9 @@
 #include <stdio.h>
 int main (){
-    unsigned int a=0xe7;
-    printf("%d",a);
+    char src[]="sysbdmin";
+    for ( int i = 0; i <= 39 && src[i]; ++i ){
+    ++src[i];
+    }
+    puts(src);
     return 0;
 }

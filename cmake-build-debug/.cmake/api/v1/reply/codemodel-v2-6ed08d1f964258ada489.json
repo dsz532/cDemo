@@ -1,0 +1,168 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "feibonaqi",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakeLists.txt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakeLists.txt-Debug-f34b8c659d49baa2b023.json",
+					"name" : "CMakeLists.txt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "finalexam4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-finalexam4-Debug-add6599558646c290683.json",
+					"name" : "finalexam4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode1-Debug-40d773d224d0fe4f408a.json",
+					"name" : "leetcode1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode1603::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode1603-Debug-0fd6aa97e97a78e874d1.json",
+					"name" : "leetcode1603",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode1769::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode1769-Debug-c3c352549daf2cec46d6.json",
+					"name" : "leetcode1769",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode1920::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode1920-Debug-cda8c9178602bb498c77.json",
+					"name" : "leetcode1920",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode2011::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode2011-Debug-a4055ca52ef7821f41f0.json",
+					"name" : "leetcode2011",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode2396::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode2396-Debug-15a333108937544909a7.json",
+					"name" : "leetcode2396",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode2545::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode2545-Debug-33de453d85a9317ba474.json",
+					"name" : "leetcode2545",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode2574::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode2574-Debug-40564f0d89cf75b18cf1.json",
+					"name" : "leetcode2574",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode535::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode535-Debug-f7f977c0305075691cc9.json",
+					"name" : "leetcode535",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leetcode807::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leetcode807-Debug-fcb186e33bc28ce6a682.json",
+					"name" : "leetcode807",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-6b4873d8982ad8630f7a.json",
+					"name" : "test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug",
+		"source" : "C:/Users/dsz/CLionProjects/cDemo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

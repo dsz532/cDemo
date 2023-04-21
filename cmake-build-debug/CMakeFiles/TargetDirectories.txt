@@ -10,5 +10,6 @@ C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/leetcode535.dir
 C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/leetcode1920.dir
 C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/leetcode2545.dir
 C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/finalexam4.dir
+C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/test.dir
 C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/dsz/CLionProjects/cDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
