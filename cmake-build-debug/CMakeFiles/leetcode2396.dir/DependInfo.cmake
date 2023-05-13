@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/dsz/CLionProjects/cDemo/leetcode2396.c" "CMakeFiles/leetcode2396.dir/leetcode2396.c.obj" "gcc" "CMakeFiles/leetcode2396.dir/leetcode2396.c.obj.d"
+  "/Users/dsz/Desktop/code/cDemo/leetcode2396.c" "CMakeFiles/leetcode2396.dir/leetcode2396.c.o" "gcc" "CMakeFiles/leetcode2396.dir/leetcode2396.c.o.d"
   )
 
 # Targets to which this target links.

@@ -1,14 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CMakeLists.txt.dir/finalexam4.c.obj"
-  "CMakeFiles/CMakeLists.txt.dir/finalexam4.c.obj.d"
-  "CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.obj"
-  "CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.obj.d"
-  "CMakeFiles/CMakeLists.txt.dir/leetcode2574.c.obj"
-  "CMakeFiles/CMakeLists.txt.dir/leetcode2574.c.obj.d"
-  "CMakeLists.txt.exe"
-  "CMakeLists.txt.exe.manifest"
+  "CMakeFiles/CMakeLists.txt.dir/c1-1.c.o"
+  "CMakeFiles/CMakeLists.txt.dir/c1-1.c.o.d"
+  "CMakeLists.txt"
   "CMakeLists.txt.pdb"
-  "libCMakeLists.txt.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

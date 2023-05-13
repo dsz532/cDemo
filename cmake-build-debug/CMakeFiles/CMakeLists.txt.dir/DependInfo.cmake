@@ -8,9 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/dsz/CLionProjects/cDemo/finalexam4.c" "CMakeFiles/CMakeLists.txt.dir/finalexam4.c.obj" "gcc" "CMakeFiles/CMakeLists.txt.dir/finalexam4.c.obj.d"
-  "C:/Users/dsz/CLionProjects/cDemo/leetcode2396.c" "CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.obj" "gcc" "CMakeFiles/CMakeLists.txt.dir/leetcode2396.c.obj.d"
-  "C:/Users/dsz/CLionProjects/cDemo/leetcode2574.c" "CMakeFiles/CMakeLists.txt.dir/leetcode2574.c.obj" "gcc" "CMakeFiles/CMakeLists.txt.dir/leetcode2574.c.obj.d"
+  "/Users/dsz/Desktop/code/cDemo/c1-1.c" "CMakeFiles/CMakeLists.txt.dir/c1-1.c.o" "gcc" "CMakeFiles/CMakeLists.txt.dir/c1-1.c.o.d"
   )
 
 # Targets to which this target links.

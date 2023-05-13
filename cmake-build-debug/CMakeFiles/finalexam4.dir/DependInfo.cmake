@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/dsz/CLionProjects/cDemo/finalexam4.c" "CMakeFiles/finalexam4.dir/finalexam4.c.obj" "gcc" "CMakeFiles/finalexam4.dir/finalexam4.c.obj.d"
+  "/Users/dsz/Desktop/code/cDemo/finalexam4.c" "CMakeFiles/finalexam4.dir/finalexam4.c.o" "gcc" "CMakeFiles/finalexam4.dir/finalexam4.c.o.d"
   )
 
 # Targets to which this target links.

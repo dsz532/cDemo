@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/finalexam4.dir/finalexam4.c.obj"
-  "CMakeFiles/finalexam4.dir/finalexam4.c.obj.d"
-  "finalexam4.exe"
-  "finalexam4.exe.manifest"
+  "CMakeFiles/finalexam4.dir/finalexam4.c.o"
+  "CMakeFiles/finalexam4.dir/finalexam4.c.o.d"
+  "finalexam4"
   "finalexam4.pdb"
-  "libfinalexam4.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
